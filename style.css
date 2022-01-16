@@ -1,0 +1,30 @@
+body{
+    font-family: font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50;
+}
+.top-banner{
+    display: flex;
+    margin-bottom: 10;
+    background-image: url(images/top-banner.png);
+}
+.green{
+    color: green;
+}
+.half-widts{
+    width: 50%;
+    padding-left: 10;
+    
+}
+.half-widts img{
+    width: 70%;
+} 
+.link-button{
+    font-weight: 700;
+    text-decoration: none;
+    background-image: linear-gradient(red, salmon);
+    padding: 2% 2%;
+    color: black;
+}
